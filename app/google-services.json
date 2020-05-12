@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343515234447",
+    "firebase_url": "https://gamer-tinder.firebaseio.com",
+    "project_id": "gamer-tinder",
+    "storage_bucket": "gamer-tinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343515234447:android:9783f4c67885122ab030fa",
+        "android_client_info": {
+          "package_name": "android.bignerdranch.com.tempproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343515234447-oluq65orlpuko32f8d7t0a8j46pbt3ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.bignerdranch.com.tempproject",
+            "certificate_hash": "afda93ae2f0e890a1c778a56e2b2e978129ecc99"
+          }
+        },
+        {
+          "client_id": "343515234447-2mruom3s7rlorg8p070s9vu951hrajl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJplNF9a8VXNTsnSMS1PFS4ZxVF2QHz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343515234447-2mruom3s7rlorg8p070s9vu951hrajl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
